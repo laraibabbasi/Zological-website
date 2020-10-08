@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Zological-website/static/css/main.dad4c55b.chunk.css",
+    "main.js": "/Zological-website/static/js/main.8133b122.chunk.js",
+    "main.js.map": "/Zological-website/static/js/main.8133b122.chunk.js.map",
+    "runtime-main.js": "/Zological-website/static/js/runtime-main.395363ec.js",
+    "runtime-main.js.map": "/Zological-website/static/js/runtime-main.395363ec.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/Zological-website/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.17dce9f3.chunk.js": "/Zological-website/static/js/2.17dce9f3.chunk.js",
+    "static/js/2.17dce9f3.chunk.js.map": "/Zological-website/static/js/2.17dce9f3.chunk.js.map",
+    "index.html": "/Zological-website/index.html",
+    "precache-manifest.64719f7f27f749f1b1425e0e3df2b541.js": "/Zological-website/precache-manifest.64719f7f27f749f1b1425e0e3df2b541.js",
+    "service-worker.js": "/Zological-website/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/Zological-website/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.dad4c55b.chunk.css.map": "/Zological-website/static/css/main.dad4c55b.chunk.css.map",
+    "static/js/2.17dce9f3.chunk.js.LICENSE.txt": "/Zological-website/static/js/2.17dce9f3.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Zological-website/static/media/1.ac271de8.jpg",
+    "static/media/2.jpg": "/Zological-website/static/media/2.c6686e38.jpg",
+    "static/media/s1.jpg": "/Zological-website/static/media/s1.79604c9b.jpg",
+    "static/media/s2.jpg": "/Zological-website/static/media/s2.9c292b63.jpg",
+    "static/media/s3.jpg": "/Zological-website/static/media/s3.1f85a39d.jpg",
+    "static/media/s4.jpg": "/Zological-website/static/media/s4.d946c46e.jpg",
+    "static/media/s5.jpg": "/Zological-website/static/media/s5.dd49d943.jpg",
+    "static/media/s7.jpg": "/Zological-website/static/media/s7.5001dc98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395363ec.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.17dce9f3.chunk.js",
+    "static/css/main.dad4c55b.chunk.css",
+    "static/js/main.8133b122.chunk.js"
+  ]
+}
