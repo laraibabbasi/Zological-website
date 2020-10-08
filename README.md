@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[LIVE DEMO](https://laraibabbasi.github.io/Zological-website/)
 
 ## Available Scripts
 
