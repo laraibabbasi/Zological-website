@@ -1,0 +1,7 @@
+.abc{
+    cursor: pointer;
+    transition: transform 400ms;
+}
+.abc:hover{
+    transform: scale(1.08);
+}
